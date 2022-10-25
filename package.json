@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Aza-saitbot/telegramBot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.59.0",
+    "node-telegram-bot-api": "^0.52.0",
     "nodemon": "^2.0.20"
   }
 }
